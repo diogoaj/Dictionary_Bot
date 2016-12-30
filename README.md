@@ -4,4 +4,4 @@
 
 ## Used APIs
 - [Facebook Messenger Platform](https://developers.facebook.com/docs/messenger-platform/product-overview)
-- [Dicionario-Aberto](http://www.dicionario-aberto.net/)
+- [Dicionario-Aberto](http://www.dicionario-aberto.net/estaticos/api.html)
